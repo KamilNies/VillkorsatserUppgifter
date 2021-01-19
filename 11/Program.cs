@@ -149,7 +149,7 @@ namespace _11
                     Console.Write("Ninety ");
                     break;
             }
-            if (strValue[0] != 1)
+            if (strValue[0] != '1')
             {
                 switch (strValue[1])
                 {
@@ -288,7 +288,7 @@ namespace _11
                     Console.Write("ninety ");
                     break;
             }
-            if (strValue[1] != 1)
+            if (strValue[1] != '1')
             {
                 switch (strValue[2])
                 {
