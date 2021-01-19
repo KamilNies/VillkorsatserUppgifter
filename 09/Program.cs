@@ -57,7 +57,7 @@ namespace _09
             //}
             //Console.ReadKey();
 
-            int[] inputArray = { 8, 3, 1, 1, -2 };
+            int[] inputArray = { 7, 1, -3, 2, -1 };
             Array.Sort(inputArray);
             Array.Reverse(inputArray); //8, 3, 1, 1, -2
             var arrayLength = inputArray.Length;
